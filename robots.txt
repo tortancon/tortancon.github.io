@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tortancon.github.io/sitemap.html.gz
+Sitemap: https://tortancon.github.io/app/sitemap.html.gz
+Sitemap: https://tortancon.github.io/assets/sitemap.html.gz
+Sitemap: https://tortancon.github.io/css/sitemap.html.gz
+Sitemap: https://tortancon.github.io/includes/sitemap.html.gz
+Sitemap: https://tortancon.github.io/item/sitemap.html.gz
+Sitemap: https://tortancon.github.io/src/sitemap.html.gz
